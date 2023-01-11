@@ -1,6 +1,6 @@
 EPICERIE
 
-Projet universitaire réalisé dans le cadre du cours de structure de données.
+Projet universitaire réalisé dans le cadre du cours sur les structures de données. Une partie du code est issu de monsieur Eric Dallaire, enseignant la matière.
 
 L'application crée une liste d'épicerie. L'utilisateur peut utiliser les fonctionnalités suivantes:
 
